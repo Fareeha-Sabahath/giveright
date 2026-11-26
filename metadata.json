@@ -1,0 +1,6 @@
+{
+  "name": "GiveRight — AI-Based NGO Donation Allocation & Matching",
+  "description": "Connecting Generosity with Genuine Needs through Integer Linear Programming optimization, live delivery tracking, and perishable food expiry management.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
